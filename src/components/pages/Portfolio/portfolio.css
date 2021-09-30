@@ -1,0 +1,73 @@
+#portfolio {
+  align-items: center;
+}
+
+.projects {
+  align-items: center;
+ margin: 0 1vw;
+  height: 80vh;
+overflow-y: scroll;
+  border: 3px solid green;
+  border-radius: 10px;
+}
+
+.work {
+  align-items: center;
+  text-align: center;
+  margin: 0
+}
+
+#explain {
+  margin: 15px
+}
+
+.portfolio-card{
+  position: relative;
+  height: 475px;
+background: white;
+  border: 3px solid black;
+  border-radius: 10px;
+  text-align: center;
+  margin: 15px;
+}
+
+.portfolio-card-header {
+  background: #008000;
+
+  padding-top: 0;
+  align-items: center;
+  border-radius: 5px 5px 0 0
+}
+
+.portfolio-card-body {
+background: white;
+  margin-bottom: 10px;
+  padding-bottom: 0;
+}
+
+.description {
+  font-size: 25px;
+}
+
+.app-link {
+  color: white;
+  font-family: 'Bree Serif', serif;
+font-size: 30px;
+}
+
+.github-link {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+}
+
+.portfolio-logo {
+  width: 50px;
+  margin-top: 10px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .projects {
+    width: 90vw
+  }
+}

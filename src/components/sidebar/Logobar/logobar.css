@@ -1,0 +1,12 @@
+#logobar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 0px;
+  background: white;
+  padding-top: 7px;
+}
+
+.buttonLogo {
+  width: 32px;
+}

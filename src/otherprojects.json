@@ -1,0 +1,51 @@
+[
+{
+  "id": 0,
+  "title": "Psychic Game",
+  "link": "https://jamescalingo.github.io/PsychicGame/",
+  "image": "/Users/jamescalingo/Desktop/jamescalingo.github.io/src/images/app-images/screencapture-node-notes-jamescalingo-herokuapp-2019-07-12-11_58_14.png",
+  "alt": "Are You Psychic?",
+  "description": "Guess a randomly generated letter.\nYour odds may seem low, but you are psychic - right?",
+  "github": "https://github.com/JamesCalingo/Psychic-Game"
+},
+{
+  "id": 2,
+  "title": "Boom or Bust",
+  "link": "https://jamescalingo.github.io/boom-or-bust",
+  "image": "placehoder",
+  "alt": "Boom or Bust",
+  "description": "It's kinda like Blackjack, but EXTREME!\nA different game every time you play - can you handle it?",
+  "github": "https://github.com/JamesCalingo/boom-or-bust"
+},
+{
+  "id": 3,
+  "title": "JavaSnake",
+  "link": "https://jamescalingo.github.io/JavaSnake",
+  "description": "The classic Nokia phone game - made in JavaScript!",
+  "github": "https://github.com/JamesCalingo/JavaSnake"
+},
+{
+  "id": 4,
+  "title": "The JavaScript 30",
+  "link": "https://jamescalingo.github.io/jcjs30112020/",
+  "description": "The popular 30 day web course, along with my own takes on it.",
+  "technologies": "HTML, CSS, JavaScript",
+  "github": "https://github.com/JamesCalingo/jcjs30112020"
+},
+{
+  "id": 5,
+  "title": "Tippa",
+  "link": "https://jamescalingo.github.io/Tippa/",
+  "description": "An app to calculate how much to tip - as well as how to split the tip amongst friends.",
+  "technologies": "HTML, JavaScript, Bootstrap",
+  "github": "https://github.com/JamesCalingo/Tippa"
+},
+{
+  "id": 1,
+  "title": "The Encouragement Network",
+  "link": "https://theencouragementnetwork.netlify.app",
+  "description": "A social media/network where people can send/see anonymous messages of encouragement and hope.",
+  "technologies": "React, GraphQL, MongoDB, Mongoose, Bootstrap, Node, Express",
+  "github": "https://github.com/JamesCalingo/theEncouragementNetwork"
+}
+]

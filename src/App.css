@@ -1,38 +1,147 @@
-.App {
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  vertical-align: baseline;
+  background: transparent;
+  font-display: swap;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  background: rgb(10, 10, 48)
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+#tagline {
+  font-size: 7vw;
+}
+
+.container-grid {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  grid-template-rows: repeat (5, 20%);
+}
+
+
+.pages {
+  grid-column-start: 2;
+  grid-row-start: 2;
+  margin: 2%;
+}
+
+#landing {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: 48pt;
+  font-family: 'Roboto Mono', sans-serif;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.profile-pic {
+  float: left;
+  margin: 0 10px;
+  width: 25%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.card {
+  border: 3px solid white;
+  border-radius: 10px;
+  margin: 30px;
+  padding: 0
+}
+
+.card-header {
+  font-family: 'Helvetica', sans-serif;
+  text-align: center;
+  background: green;
+  color: white;
+  margin: 0;
+  padding: 10px;
+  border-radius: 5px 5px 0 0
+}
+
+.card-body {
+  background: white;
+  padding: 2% 0
+}
+
+.card li {
+  list-style-type: none;
+  text-align: center;
+}
+
+#copyright {
+  text-align: right;
+  color: white;
+}
+
+.home-menu{
+  display:none;
+}
+
+#mobile-menu{
+  font-family: "Roboto Mono", sans-serif;
+  text-align: center;
+  line-height: 2
+}
+
+
+@media only screen and (max-width: 1000px) {
+  body{
+    width: 100%;
   }
-  to {
-    transform: rotate(360deg);
+ 
+  .container-grid {
+   max-width: 100%;
+    grid-template-columns: 1fr;
+    grid-template-rows: 100px 1fr;
   }
+
+  .card{
+    margin: 0;
+    margin-top: 25px
+  }
+  
+  #sidebar {
+    position: fixed;
+    top: 0;
+    height: 1%;
+    width: 100%;
+  }
+
+  .dropdown-content {
+    display: none;
+  }
+
+  .home-menu{
+    display: contents;
+  }
+
+  #landing h1{
+    font-size: 45px;
+  }
+  
+  #landing a{
+    color: white;
+    font-family: "Roboto Mono", sans-serif;
+  }
+
+  .pages {
+    grid-row-start: 2;
+    grid-column-start: 1
+  }
+
+  #copyright {
+    text-align: center;
+  }
+
+  .portfolio-card {
+    grid-column: 1 / 5
+  }
+
 }
