@@ -3,7 +3,7 @@ import { useMediaQuery } from "react-responsive";
 import "./namecard.css";
 
 function NameCard() {
-  const taglines = ["Software Developer", "Web Developer"];
+ ;
 
   function flip() {
     return Math.round(Math.random());
@@ -17,7 +17,7 @@ function NameCard() {
     <a href={isSmallScreen ? "#mobile-menu" : "/"}>
       <div className="nameCard">
         <div className="name">JAMES CALINGO;</div>
-        <div className="tagline">{taglines[flip()].toUpperCase()};</div>
+        <div className="tagline">SOFTWARE DEVELOPER;</div>
       </div>
     </a>
   );
