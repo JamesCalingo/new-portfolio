@@ -19,7 +19,7 @@ function Portfolio() {
         </div>
 
         <div className="work card-body">
-          <p id="explain">
+          <p className="card-intro">
             Here's where you can see a few of the things I've made! Click on the
             banner on top to go to the app itself, or the Github logo at the
             bottom of each project card to go to the repository for that

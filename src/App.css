@@ -67,7 +67,11 @@ p {
 
 .card-body {
   background: white;
-  padding: 2% 0
+  padding: 2% 
+}
+
+.card-intro {
+  text-align: center;
 }
 
 .card li {

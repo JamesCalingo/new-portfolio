@@ -13,9 +13,9 @@ function Technologies() {
       <div className="card">
         <div className="card-header">
           <h1>MY KNOWLEDGE BASE</h1>
-          <h2>Things in gray are things I'm working on learning</h2>
         </div>
         <div className="card-body">
+          <p className="card-intro">These are some of the things I've worked with in the past. However, with how much the world of technology changes from year to year, I'm always on the lookout for new things to add to this list. Things in grey are things that I'm currently trying to learn for various reasons.</p>
           <div className="panels">
             <div
               id="languages"
@@ -30,8 +30,6 @@ function Technologies() {
                 <li>SQL</li>
                 <li>TypeScript</li>
                 <li>GraphQL</li>
-                <li className="learning">Go</li>
-                <li className="learning">Rust</li>
                 <li className="learning">Python</li>
               </ul>
             </div>
@@ -60,11 +58,10 @@ function Technologies() {
                 <li>MongoDB</li>
                 <li>MySQL</li>
                 <li>Git</li>
+                <li>GitHub</li>
                 <li>Heroku</li>
                 <li>Netlify</li>
-                <li className="learning">Vercel</li>
-                <li className="learning">WebAssembly</li>
-                <li className="learning">FaunaDB</li>
+           
               </ul>
             </div>
           </div>

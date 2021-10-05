@@ -12,7 +12,7 @@ function About() {
           <img
             src={profilePic}
             className="img-thumbnail profile-pic"
-            alt="James Calingo"
+            alt="James Calingo (aka me)"
           />
 
           <h1>Hi!</h1>
@@ -39,9 +39,7 @@ function About() {
             In addition, I have a background in Psychology (with a Bachelors Degree) and have been involved in a church band for over ten years - including four as one of its coordinators.
           </p>
           <p>
-            And that's basically me in a nutshell. If you want to know more
-            about me, you can check out my blog by using the link in the
-            sidebar.
+            And that's basically me in a nutshell. If you want to know more, you can use the links in the sidebar to the left (or above if you're on mobile) to check out my <a href="https://linkedin.com/in/james-calingo">LinkedIn</a> and <a href="https://github.com/JamesCalingo">GitHub</a>. You can also check out my blog by using the "Blog" link.
           </p>
         </div>
       </div>
