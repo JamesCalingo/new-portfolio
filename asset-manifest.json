@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e8c85cd.chunk.css",
-    "main.js": "/static/js/main.ac6407b4.chunk.js",
-    "main.js.map": "/static/js/main.ac6407b4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.75cb3042.js",
-    "runtime-main.js.map": "/static/js/runtime-main.75cb3042.js.map",
-    "static/js/2.f744b5ce.chunk.js": "/static/js/2.f744b5ce.chunk.js",
-    "static/js/2.f744b5ce.chunk.js.map": "/static/js/2.f744b5ce.chunk.js.map",
-    "static/js/3.dd6b3796.chunk.js": "/static/js/3.dd6b3796.chunk.js",
-    "static/js/3.dd6b3796.chunk.js.map": "/static/js/3.dd6b3796.chunk.js.map",
+    "main.css": "/static/css/main.902d318a.chunk.css",
+    "main.js": "/static/js/main.a6c0cb4a.chunk.js",
+    "main.js.map": "/static/js/main.a6c0cb4a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.714f2e35.js",
+    "runtime-main.js.map": "/static/js/runtime-main.714f2e35.js.map",
+    "static/js/2.464fade8.chunk.js": "/static/js/2.464fade8.chunk.js",
+    "static/js/2.464fade8.chunk.js.map": "/static/js/2.464fade8.chunk.js.map",
+    "static/js/3.65497e81.chunk.js": "/static/js/3.65497e81.chunk.js",
+    "static/js/3.65497e81.chunk.js.map": "/static/js/3.65497e81.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.9e8c85cd.chunk.css.map": "/static/css/main.9e8c85cd.chunk.css.map",
-    "static/js/2.f744b5ce.chunk.js.LICENSE.txt": "/static/js/2.f744b5ce.chunk.js.LICENSE.txt",
-    "static/media/Gmail_2013.5f5f1c5c.png": "/static/media/Gmail_2013.5f5f1c5c.png",
-    "static/media/picture-of-me.7728300a.jpg": "/static/media/picture-of-me.7728300a.jpg"
+    "precache-manifest.18b0b054f3bf6d29b0bb2d2c2bdf950e.js": "/precache-manifest.18b0b054f3bf6d29b0bb2d2c2bdf950e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.902d318a.chunk.css.map": "/static/css/main.902d318a.chunk.css.map",
+    "static/js/2.464fade8.chunk.js.LICENSE.txt": "/static/js/2.464fade8.chunk.js.LICENSE.txt",
+    "static/media/Gmail_2013.png": "/static/media/Gmail_2013.eed135a1.png",
+    "static/media/picture-of-me.jpg": "/static/media/picture-of-me.40b4c410.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.75cb3042.js",
-    "static/js/2.f744b5ce.chunk.js",
-    "static/css/main.9e8c85cd.chunk.css",
-    "static/js/main.ac6407b4.chunk.js"
+    "static/js/runtime-main.714f2e35.js",
+    "static/js/2.464fade8.chunk.js",
+    "static/css/main.902d318a.chunk.css",
+    "static/js/main.a6c0cb4a.chunk.js"
   ]
 }
