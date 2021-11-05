@@ -31,6 +31,7 @@ function Technologies() {
                 <li>TypeScript</li>
                 <li>GraphQL</li>
                 <li className="learning">Python</li>
+                <li className="learning">Go</li>
               </ul>
             </div>
             <div
@@ -44,6 +45,7 @@ function Technologies() {
                 <li>Bootstrap</li>
                 <li>JQuery</li>
                 <li className="learning">Jest</li>
+                <li className="learning">Svelte</li>
               </ul>
             </div>
             <div

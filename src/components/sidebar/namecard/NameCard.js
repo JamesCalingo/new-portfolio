@@ -11,7 +11,7 @@ function NameCard() {
     <a href={isSmallScreen ? "#mobile-menu" : "/"}>
       <div className="nameCard">
         <div className="name">JAMES CALINGO;</div>
-        <div className="tagline">SOFTWARE DEVELOPER;</div>
+        <div className="tagline">SOFTWARE ENGINEER;</div>
       </div>
     </a>
   );

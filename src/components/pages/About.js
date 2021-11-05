@@ -33,7 +33,7 @@ function About() {
           <p>
             Now, I'm working on dynamic applications, learning new things every
             day, and trying to keep up with the busy world of software
-            development.
+            development/engineering.
           </p>
           <p>
             In addition, I have a background in Psychology (with a Bachelors Degree) and have been involved in a church band for over ten years - including four as one of its coordinators.
