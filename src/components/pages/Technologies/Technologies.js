@@ -28,9 +28,9 @@ function Technologies() {
                 <li>CSS</li>
                 <li>JavaScript</li>
                 <li>SQL</li>
+                <li>Python</li>
                 <li>TypeScript</li>
-                <li>GraphQL</li>
-                <li className="learning">Python</li>
+                <li className="learning">GraphQL</li>
                 <li className="learning">Go</li>
               </ul>
             </div>
