@@ -32,7 +32,7 @@ function Sidebar() {
           <a href="https://overclocked-overthoughts.netlify.app/">Blog</a>
         </li>
         <li className="nav-item">
-          <a href="https://docs.google.com/document/d/e/2PACX-1vQcFopUsFf6TglXF6i6vTRadVZbpgs1bSS-UJ6w07hVXV1EbfkUrr5YeeMcs5tXTZwYnGcqqtQZguHk/pub">
+          <a href="https://docs.google.com/document/d/1zhiBpyUl72zrpHTCSXKhumHRyLPJkCxTnOkwBbY1aK0/edit?usp=sharing">
             Resume
           </a>
         </li>
