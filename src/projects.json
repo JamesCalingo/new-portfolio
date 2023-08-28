@@ -17,11 +17,11 @@
   },
   {
     "id": 2,
-    "title": "StickyNodes",
-    "link": "https://sticky-nodes.herokuapp.com/",
-    "description": " A note taking app...for your browser! Users can take notes with this app and then access them on any other device they so choose via their web browser.",
-    "technologies": "HTML, MySQL, Bootstrap, Node, Express",
-    "github": "https://github.com/JamesCalingo/NodeNotes"
+    "title": "Tippa",
+    "link": "https://jamescalingo.github.io/Tippa/",
+    "description": "An app to calculate how much to tip - as well as how to split the tip amongst friends.",
+    "technologies": "HTML, JavaScript, Bootstrap",
+    "github": "https://github.com/JamesCalingo/Tippa"
   }
 
 ]
